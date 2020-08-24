@@ -3,6 +3,10 @@ An SCP:SL Exiled plugin that forces the round to end on command
 
 ### Notes
 - This command will only run when there is at least 1 player on the server
+- This command will only run by roles tha have the RoundEvent permission set
+
+### RemoteAdmin Command
+- forceend / roundend / fe / re (Ends the round at the current state)
 
 ### Config
 ```yaml
